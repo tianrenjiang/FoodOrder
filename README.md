@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 管理员可以登录，并在 cookie 中实现 Token 认证  
 管理员可对在售材料添加删除或修改价格操作，可对订单进行状态管理  
 相关技术： React、Next.js、MongoDB  
-![Image text](https://raw.githubusercontent.com/tianrenjiang/FoodOrder/main/img_folder/102323.png)
+![Image text](https://raw.githubusercontent.com/tianrenjiang/FoodOrder/main/img_folder/102323.png)  
 ![Image text](https://raw.githubusercontent.com/tianrenjiang/FoodOrder/main/img_folder/102439.png)
 
 
